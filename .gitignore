@@ -1,0 +1,5 @@
+*
+!config.json
+!strategies/
+!strategies/Definitive.py
+!.gitignore
